@@ -1,0 +1,14 @@
+D:\Visual Studio Projects\CodeWars\Good vs Evil\Good vs Evil\bin\Debug\net7.0\Good vs Evil.exe
+D:\Visual Studio Projects\CodeWars\Good vs Evil\Good vs Evil\bin\Debug\net7.0\Good vs Evil.deps.json
+D:\Visual Studio Projects\CodeWars\Good vs Evil\Good vs Evil\bin\Debug\net7.0\Good vs Evil.runtimeconfig.json
+D:\Visual Studio Projects\CodeWars\Good vs Evil\Good vs Evil\bin\Debug\net7.0\Good vs Evil.dll
+D:\Visual Studio Projects\CodeWars\Good vs Evil\Good vs Evil\bin\Debug\net7.0\Good vs Evil.pdb
+D:\Visual Studio Projects\CodeWars\Good vs Evil\Good vs Evil\obj\Debug\net7.0\Good vs Evil.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio Projects\CodeWars\Good vs Evil\Good vs Evil\obj\Debug\net7.0\Good vs Evil.AssemblyInfoInputs.cache
+D:\Visual Studio Projects\CodeWars\Good vs Evil\Good vs Evil\obj\Debug\net7.0\Good vs Evil.AssemblyInfo.cs
+D:\Visual Studio Projects\CodeWars\Good vs Evil\Good vs Evil\obj\Debug\net7.0\Good vs Evil.csproj.CoreCompileInputs.cache
+D:\Visual Studio Projects\CodeWars\Good vs Evil\Good vs Evil\obj\Debug\net7.0\Good vs Evil.dll
+D:\Visual Studio Projects\CodeWars\Good vs Evil\Good vs Evil\obj\Debug\net7.0\refint\Good vs Evil.dll
+D:\Visual Studio Projects\CodeWars\Good vs Evil\Good vs Evil\obj\Debug\net7.0\Good vs Evil.pdb
+D:\Visual Studio Projects\CodeWars\Good vs Evil\Good vs Evil\obj\Debug\net7.0\Good vs Evil.genruntimeconfig.cache
+D:\Visual Studio Projects\CodeWars\Good vs Evil\Good vs Evil\obj\Debug\net7.0\ref\Good vs Evil.dll
