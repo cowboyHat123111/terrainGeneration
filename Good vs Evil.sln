@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Good vs Evil", "Good vs Evil\Good vs Evil.csproj", "{65855A7C-5568-43D7-8D6F-AF333DB7A2E3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0C124205-0EC5-4D22-8852-F38E6461AFB5}"
+	ProjectSection(SolutionItems) = preProject
+		Instructions.txt = Instructions.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{65855A7C-5568-43D7-8D6F-AF333DB7A2E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65855A7C-5568-43D7-8D6F-AF333DB7A2E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65855A7C-5568-43D7-8D6F-AF333DB7A2E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65855A7C-5568-43D7-8D6F-AF333DB7A2E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FA8D6E3-1D02-418F-93CB-6B0C4E06AFB8}
+	EndGlobalSection
+EndGlobal
